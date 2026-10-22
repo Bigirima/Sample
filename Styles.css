@@ -1,0 +1,39 @@
+
+
+.Categories,
+.house-hold {
+    background-color: yellow;
+    color: green;
+    padding: 40px;
+    border: 50px solid goldenrod;
+    margin: 60px;
+    font-size: 30px;
+
+}
+body {
+    background-color: green;
+    color: yellow;
+}
+#Languages {
+    background-color: yellow;
+    color: green;
+      padding: 40px;
+    border: 50px solid goldenrod;
+    margin: 60px;
+}
+.work.materials {
+    background-colr: white;
+    color:yellow;
+
+}
+.subsection {
+  color: yellow;
+}
+
+.list {
+  color: yellow;
+}
+img{
+  height:500px;
+  width: 400px;
+}
